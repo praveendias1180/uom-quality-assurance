@@ -15,3 +15,7 @@
 ## Tasks of QA Engineer
 
 ![QA Tasks](tasks-qa.png)
+
+## QA Tracks
+
+![QA Tracks](qa-tracks.png)
