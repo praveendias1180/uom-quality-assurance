@@ -7,3 +7,7 @@
 ## Software Testing
 
 ![Communication](communication.png)
+
+# QA Engineer is NOT a Tester!
+
+![QA Engineer](qa-engineer.png)
