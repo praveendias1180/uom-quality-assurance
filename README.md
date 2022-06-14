@@ -19,3 +19,7 @@
 ## QA Tracks
 
 ![QA Tracks](qa-tracks.png)
+
+# IEEE Definition
+
+![IEEE Definition](ieee-definition.png)
