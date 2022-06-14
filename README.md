@@ -11,3 +11,7 @@
 # QA Engineer is NOT a Tester!
 
 ![QA Engineer](qa-engineer.png)
+
+## Tasks of QA Engineer
+
+![QA Tasks](tasks-qa.png)
