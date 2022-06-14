@@ -23,3 +23,7 @@
 # IEEE Definition
 
 ![IEEE Definition](ieee-definition.png)
+
+## Non Functional Testing
+
+![Non Functional](non-functional.png)
