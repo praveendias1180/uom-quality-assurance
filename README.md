@@ -35,3 +35,7 @@
 # Defect Life Cycle
 
 ![Life Cycle](defects.png)
+
+# TDD - Test Driven Development
+
+![TDD](tdd.png)
