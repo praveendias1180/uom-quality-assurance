@@ -39,3 +39,5 @@
 # TDD - Test Driven Development
 
 ![TDD](tdd.png)
+
+![Pyramid](test-pyramid.png)
