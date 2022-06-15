@@ -31,3 +31,7 @@
 ## Testing Artifacts
 
 ![Artifacts](testing-artifacts.png)
+
+# Defect Life Cycle
+
+![Life Cycle](defects.png)
