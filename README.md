@@ -27,3 +27,7 @@
 ## Non Functional Testing
 
 ![Non Functional](non-functional.png)
+
+## Testing Artifacts
+
+![Artifacts](testing-artifacts.png)
